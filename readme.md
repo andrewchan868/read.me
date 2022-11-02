@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=homingricky&count_private=true&hide_rank=false&show_icons=true&theme=blue-green&include_all_commits=true" alt="homingricky's GitHub Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andrewchan868&count_private=true&hide_rank=false&show_icons=true&theme=blue-green&include_all_commits=true" alt="andrewchan868's GitHub Stats">
 
 
 - :chart_with_upwards_trend: Job: Quantitative Trader
